@@ -1,10 +1,10 @@
 # MSIntuit - Chowder implementation
 
 This is an official implementation of Chowder model used in MSIntuit CRC<sup>TM</sup>. 
-MSIntuit CRC<sup>TM</sup> is a tool for pre-screening of microsatellite instability (MSI) using only and H&E slide of a patient with colorectal cancer (CRC).
+MSIntuit is a tool for pre-screening of microsatellite instability (MSI) using only an H&E slide of a patient with colorectal cancer (CRC).
 
 
-The model is a variant of Chowder model, originally published by Courtiol et al., 2018: [Classification and Disease Localization 
+The model shared here is a variant of Chowder model, originally published by Courtiol et al., 2018: [Classification and Disease Localization 
 in Histopathology Using Only Global Labels: A Weakly-Supervised Approach](https://arxiv.org/abs/1802.02212).
 
 !["Chowder"](./assets/chowder.png)
